@@ -2,7 +2,7 @@
 
 ## Description
 
-@see  
+see  
 [Vue.jsのScoped CSSがいかにしてスコープを実現しているのか検証してみた](https://qiita.com/mascii/items/623d4c97c3f95e6984c0)
 
 ## Project setup
